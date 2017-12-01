@@ -1,0 +1,39 @@
+{
+    "facturas": [
+        {
+          "id": 1,
+          "numero": "1000",
+          "base": 100,
+          "iva": 21,
+          "tipo": "ingreso"
+        },
+        {
+          "id": 2,
+          "numero": "1001",
+          "base": 50,
+          "iva": 21,
+          "tipo": "ingreso"
+        },
+        {
+          "id": 3,
+          "numero": "1002",
+          "base": 300,
+          "iva": 21,
+          "tipo": "ingreso"
+        },
+        {
+          "id": 4,
+          "numero": "A003",
+          "base": 10,
+          "iva": 21,
+          "tipo": "gasto"
+        },
+        {
+          "id": 5,
+          "numero": "8003",
+          "base": 1.2,
+          "iva": 21,
+          "tipo": "gasto"
+        }
+    ]
+}
